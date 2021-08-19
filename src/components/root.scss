@@ -1,0 +1,51 @@
+.centered-content {
+    display: flex;
+    justify-content: center;
+}
+
+.paddingBottom {
+    padding-bottom: 4vh;
+}
+
+.center {
+    text-align: center;
+}
+
+.clear-top {
+    margin-top: 3vh;
+}
+
+.float-left {
+    text-align: left;
+    justify-content: flex-start;
+}
+
+.visible {
+display: block;
+}
+
+.clear {
+    color: #fff;
+}
+
+.clear-text-top {
+    padding-top: 1.5vh !important;
+    padding-left: 1vw !important;
+}
+
+.app-container {
+    width: 100%;
+    margin: auto;
+    margin-top: 5vh;
+}
+
+.content-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 2.5%;
+}
+
+.clear-left {
+    float: right;
+    margin-left: 30%;
+}
